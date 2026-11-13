@@ -1,0 +1,4 @@
+numpy
+pandas
+matplotlib
+# QuantConnect (LEAN) cloud provides lightgbm, numpy, pandas for qc/vol_study.py
